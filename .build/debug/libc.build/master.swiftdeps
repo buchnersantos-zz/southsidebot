@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "588578ff4d717d7dbc0a0da9cf57633a"
+build_time: [552945169, 455250000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [552943849, 0]

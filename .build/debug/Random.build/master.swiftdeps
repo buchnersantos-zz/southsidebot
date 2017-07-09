@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "d91fcd22afa43bf78b6be959d8d67503"
+build_time: [552945170, 887626000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/random.git--3118593962244350674/Sources/Random/Array+Random.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/random.git--3118593962244350674/Sources/Random/EmptyInitializable.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/random.git--3118593962244350674/Sources/Random/Exports.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/random.git--3118593962244350674/Sources/Random/OSRandom.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/random.git--3118593962244350674/Sources/Random/RandomProtocol.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/random.git--3118593962244350674/Sources/Random/URandom.swift": [552943848, 0]

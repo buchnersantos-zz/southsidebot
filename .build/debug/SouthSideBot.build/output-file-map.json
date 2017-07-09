@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/SouthSideBot.build/master.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/Sources/SouthSideBot/main.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/SouthSideBot.build/main.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/SouthSideBot.build/main.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/SouthSideBot.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/SouthSideBot.build/main.swiftdeps"
+  }
+}

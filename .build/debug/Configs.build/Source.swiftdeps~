@@ -1,0 +1,44 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Source"
+provides-nominal:
+- "O7Configs6Source"
+provides-member:
+- ["O7Configs6Source", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Node"
+- "Source"
+- "String"
+depends-member:
+- ["O7Configs6Source", "Node"]
+- ["O7Configs6Source", "String"]
+- ["O7Configs6Source", "commandLine"]
+- ["O7Configs6Source", "directory"]
+- ["O7Configs6Source", "memory"]
+depends-nominal:
+- "O7Configs6Source"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/CHTTP.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Users/pbuchner/southsidebot/.build/debug/Core.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Bits.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Debugging.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/libc.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/JSON.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Node.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/PathIndexable.swiftmodule"
+interface-hash: "7e55267d06bd4c0e4187d36fce01b4e8"

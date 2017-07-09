@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/master.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/ContentDispositionParser.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/ContentDispositionParser.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/ContentDispositionParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/ContentDispositionParser.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Field.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Field.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Field~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Field.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Parser.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Parser.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Parser.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Serializer.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Serializer.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Serializer~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/FormData.build/Serializer.swiftdeps"
+  }
+}

@@ -1,0 +1,105 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["O7Console12ConsoleStyle", ""]
+- ["O7Console12ConsoleStyle", "terminalColor"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "ConsoleColor"
+- "ConsoleStyle"
+depends-member:
+- !private ["O7Console12ConsoleColor", "cyan"]
+- !private ["O7Console12ConsoleColor", "green"]
+- !private ["O7Console12ConsoleColor", "red"]
+- !private ["O7Console12ConsoleColor", "yellow"]
+- ["O7Console12ConsoleStyle", "ConsoleColor"]
+- ["O7Console12ConsoleStyle", "custom"]
+- ["O7Console12ConsoleStyle", "error"]
+- ["O7Console12ConsoleStyle", "info"]
+- ["O7Console12ConsoleStyle", "plain"]
+- ["O7Console12ConsoleStyle", "success"]
+- ["O7Console12ConsoleStyle", "terminalColor"]
+- ["O7Console12ConsoleStyle", "warning"]
+- !private ["Ps28CustomDebugStringConvertible", "cyan"]
+- !private ["Ps28CustomDebugStringConvertible", "green"]
+- !private ["Ps28CustomDebugStringConvertible", "red"]
+- !private ["Ps28CustomDebugStringConvertible", "yellow"]
+- !private ["Ps17CustomReflectable", "cyan"]
+- !private ["Ps17CustomReflectable", "green"]
+- !private ["Ps17CustomReflectable", "red"]
+- !private ["Ps17CustomReflectable", "yellow"]
+- !private ["Ps9Equatable", "cyan"]
+- !private ["Ps9Equatable", "green"]
+- !private ["Ps9Equatable", "red"]
+- !private ["Ps9Equatable", "yellow"]
+- !private ["Ps23ExpressibleByNilLiteral", "cyan"]
+- !private ["Ps23ExpressibleByNilLiteral", "green"]
+- !private ["Ps23ExpressibleByNilLiteral", "red"]
+- !private ["Ps23ExpressibleByNilLiteral", "yellow"]
+- !private ["Ps8Hashable", "cyan"]
+- !private ["Ps8Hashable", "green"]
+- !private ["Ps8Hashable", "red"]
+- !private ["Ps8Hashable", "yellow"]
+- !private ["Sq", "cyan"]
+- !private ["Sq", "green"]
+- !private ["Sq", "red"]
+- !private ["Sq", "yellow"]
+- !private ["Ps9_Hashable", "cyan"]
+- !private ["Ps9_Hashable", "green"]
+- !private ["Ps9_Hashable", "red"]
+- !private ["Ps9_Hashable", "yellow"]
+- !private ["Ps21_ObjectiveCBridgeable", "cyan"]
+- !private ["Ps21_ObjectiveCBridgeable", "green"]
+- !private ["Ps21_ObjectiveCBridgeable", "red"]
+- !private ["Ps21_ObjectiveCBridgeable", "yellow"]
+depends-nominal:
+- !private "O7Console12ConsoleColor"
+- "O7Console12ConsoleStyle"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps9Equatable"
+- !private "Ps23ExpressibleByNilLiteral"
+- !private "Ps8Hashable"
+- !private "Sq"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/libc.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Core.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Debugging.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Bits.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/AssertionReporting.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/SwiftStdbool.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/ObjectiveCOverlayShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/DispatchOverlayShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/Visibility.h"
+- "/Users/pbuchner/southsidebot/.build/debug/CHTTP.build/module.modulemap"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/module.modulemap"
+interface-hash: "8725c64d8d4f0f3c332b2f3b42e53565"

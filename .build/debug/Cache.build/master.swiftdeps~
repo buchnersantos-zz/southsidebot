@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "ba5836eea70e23a7ea30fbf6356457be"
+build_time: [552944113, 979829000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/CacheProtocol.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Cache/MemoryCache.swift": [552943848, 0]

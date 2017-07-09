@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "b6006c5489d4d878a9b52e566301463e"
+build_time: [552945189, 403963000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/CacheSessions.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/MemorySessions.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Request+Session.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/Session.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsError.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsMiddleware.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Sessions/SessionsProtocol.swift": [552943848, 0]

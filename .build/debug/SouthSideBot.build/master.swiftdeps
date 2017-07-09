@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "b4fac8d42035bd229898da79249bc688"
+build_time: [552945201, 148332000]
+inputs:
+  "/Users/pbuchner/southsidebot/Sources/SouthSideBot/main.swift": [552944548, 0]

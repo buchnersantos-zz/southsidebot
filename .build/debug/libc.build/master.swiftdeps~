@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "2171ae42670b91398dbf239c5d097a13"
+build_time: [552944099, 988815000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/core.git-9210800844849382486/Sources/libc/libc.swift": [552943849, 0]

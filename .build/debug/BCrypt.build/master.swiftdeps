@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "64d9ae22a6a769418864389d38b66692"
+build_time: [552945172, 492698000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Base64.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/BCryptError.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Convenience.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Export.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Hash.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Keys.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Parser.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Salt.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bcrypt.git-6177224099894028443/Sources/BCrypt/Serializer.swift": [552943853, 0]

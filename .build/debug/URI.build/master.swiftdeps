@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "267e819a4b780619056d6df996c467ab"
+build_time: [552945180, 106010000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Byte.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Modification.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+Ports.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI+String.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Model/URI.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/URI/Parser/Parser.swift": [552943851, 0]

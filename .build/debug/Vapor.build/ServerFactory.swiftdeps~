@@ -1,0 +1,91 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ServerFactory"
+provides-nominal:
+- "C5Vapor13ServerFactory"
+provides-member:
+- ["C5Vapor13ServerFactory", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ConfigInitializable"
+- "Configs"
+- "Port"
+- "SecurityLayer"
+- "ServerFactory"
+- "ServerFactoryProtocol"
+- "ServerProtocol"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "S"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "makeServer"]
+- ["Ps9AnyObject", ""]
+- !private ["P7Configs19ConfigInitializable", "S"]
+- ["P7Configs19ConfigInitializable", "init"]
+- ["P7Configs19ConfigInitializable", "makeServer"]
+- ["P7Configs19ConfigInitializable", ""]
+- ["C5Vapor13ServerFactory", "Configs"]
+- ["C5Vapor13ServerFactory", "Port"]
+- !private ["C5Vapor13ServerFactory", "S"]
+- ["C5Vapor13ServerFactory", "SecurityLayer"]
+- ["C5Vapor13ServerFactory", "ServerProtocol"]
+- ["C5Vapor13ServerFactory", "String"]
+- ["C5Vapor13ServerFactory", "deinit"]
+- ["C5Vapor13ServerFactory", "init"]
+- ["C5Vapor13ServerFactory", "makeServer"]
+- !private ["P5Vapor21ServerFactoryProtocol", "S"]
+- ["P5Vapor21ServerFactoryProtocol", "init"]
+- ["P5Vapor21ServerFactoryProtocol", "makeServer"]
+- ["P5Vapor21ServerFactoryProtocol", ""]
+- !private ["P5Vapor14ServerProtocol", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "P7Configs19ConfigInitializable"
+- "C5Vapor13ServerFactory"
+- "P5Vapor21ServerFactoryProtocol"
+- !private "P5Vapor14ServerProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Cache.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/CHTTP.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Users/pbuchner/southsidebot/.build/debug/Node.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Bits.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Core.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Debugging.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/libc.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/PathIndexable.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Crypto.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Random.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/HTTP.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/pbuchner/southsidebot/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/pbuchner/southsidebot/.build/debug/Sockets.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Transport.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/TLS.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/URI.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Console.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Configs.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/JSON.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Routing.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Branches.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/WebSockets.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Sessions.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Cookies.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/BCrypt.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/SMTP.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/FormData.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Multipart.swiftmodule"
+interface-hash: "4c963d635ee205291e6f030a5810cb74"

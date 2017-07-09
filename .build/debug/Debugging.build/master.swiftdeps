@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "faa0fc3875d15a59f5f363b6b6b0c021"
+build_time: [552945164, 157277000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/debugging.git-4365319567167379684/Sources/Debugging/Debuggable.swift": [552943851, 0]

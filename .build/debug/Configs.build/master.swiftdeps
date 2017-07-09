@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "4fb690fac614c7ac3d1a665facee929e"
+build_time: [552945188, 794500000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Arguments.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config+Directory.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Config.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigError.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/ConfigInitializable.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Environment.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible+Merge.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/KeyAccessible.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Node+Merge.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Source.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Env.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/Node+Env.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Configs/Env/String+Env.swift": [552943848, 0]

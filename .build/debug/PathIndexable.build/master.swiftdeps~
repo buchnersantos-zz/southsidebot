@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "42f97ed0eb45a7ba4941872bbdf10ee7"
+build_time: [552944101, 119697000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable+Subscripting.swift": [552943850, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/node.git-9175390252000121167/Sources/PathIndexable/PathIndexable.swift": [552943850, 0]

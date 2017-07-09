@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "15234d010b6766a44c123e9b80633b04"
+build_time: [552945187, 830969000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/ContentDispositionParser.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Field.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Parser.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/FormData/Serializer.swift": [552943851, 0]

@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "9769ac7bfc4198bcd67a18ad69ab0498"
+build_time: [552944120, 818165000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Bytes.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Exports.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Request.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Responder.swift": [552943848, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/Response.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/vapor.git-5492988889259800272/Sources/Testing/TestingError.swift": [552943848, 0]

@@ -1,0 +1,15 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "14dd1039985869524abf3a154014f0b0"
+build_time: [552944111, 296913000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+BytesConvertible.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Parse.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie+Serialize.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookie.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+BytesConvertible.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Literal.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Parse.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies+Serialize.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Cookies.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Request+Cookies.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/Cookies/Response+Cookies.swift": [552943851, 0]

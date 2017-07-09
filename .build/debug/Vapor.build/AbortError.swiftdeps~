@@ -1,0 +1,130 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AbortError"
+provides-nominal:
+- "P5Vapor10AbortError"
+- "O4HTTP6Status"
+provides-member:
+- ["P5Vapor10AbortError", ""]
+- ["O4HTTP6Status", ""]
+- ["P5Vapor10AbortError", "metadata"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AbortError"
+- "HTTP"
+- "Node"
+- "Status"
+- "String"
+- "Swift"
+depends-member:
+- ["P5Vapor10AbortError", "Node"]
+- ["P5Vapor10AbortError", "Status"]
+- ["P5Vapor10AbortError", "String"]
+- ["P5Vapor10AbortError", "_code"]
+- ["P5Vapor10AbortError", "_domain"]
+- ["P5Vapor10AbortError", "_getEmbeddedNSError"]
+- ["P5Vapor10AbortError", "_userInfo"]
+- ["P5Vapor10AbortError", "metadata"]
+- ["P5Vapor10AbortError", "reason"]
+- !private ["P5Vapor10AbortError", "reasonPhrase"]
+- ["P5Vapor10AbortError", "status"]
+- ["P5Vapor10AbortError", ""]
+- ["Ps9Equatable", "_code"]
+- ["Ps9Equatable", "_domain"]
+- ["Ps9Equatable", "_getEmbeddedNSError"]
+- ["Ps9Equatable", "_userInfo"]
+- ["Ps9Equatable", "metadata"]
+- ["Ps9Equatable", "reason"]
+- !private ["Ps9Equatable", "reasonPhrase"]
+- ["Ps9Equatable", "status"]
+- ["Ps5Error", "Node"]
+- ["Ps5Error", "Status"]
+- ["Ps5Error", "String"]
+- ["Ps5Error", "_code"]
+- ["Ps5Error", "_domain"]
+- ["Ps5Error", "_getEmbeddedNSError"]
+- ["Ps5Error", "_userInfo"]
+- ["Ps5Error", "metadata"]
+- ["Ps5Error", "reason"]
+- !private ["Ps5Error", "reasonPhrase"]
+- ["Ps5Error", "status"]
+- ["Ps5Error", ""]
+- ["Ps8Hashable", "_code"]
+- ["Ps8Hashable", "_domain"]
+- ["Ps8Hashable", "_getEmbeddedNSError"]
+- ["Ps8Hashable", "_userInfo"]
+- ["Ps8Hashable", "metadata"]
+- ["Ps8Hashable", "reason"]
+- !private ["Ps8Hashable", "reasonPhrase"]
+- ["Ps8Hashable", "status"]
+- ["O4HTTP6Status", "Status"]
+- ["O4HTTP6Status", "String"]
+- ["O4HTTP6Status", "_code"]
+- ["O4HTTP6Status", "_domain"]
+- ["O4HTTP6Status", "_getEmbeddedNSError"]
+- ["O4HTTP6Status", "_userInfo"]
+- ["O4HTTP6Status", "deinit"]
+- ["O4HTTP6Status", "metadata"]
+- ["O4HTTP6Status", "reason"]
+- !private ["O4HTTP6Status", "reasonPhrase"]
+- ["O4HTTP6Status", "status"]
+- ["Ps9_Hashable", "_code"]
+- ["Ps9_Hashable", "_domain"]
+- ["Ps9_Hashable", "_getEmbeddedNSError"]
+- ["Ps9_Hashable", "_userInfo"]
+- ["Ps9_Hashable", "metadata"]
+- ["Ps9_Hashable", "reason"]
+- !private ["Ps9_Hashable", "reasonPhrase"]
+- ["Ps9_Hashable", "status"]
+depends-nominal:
+- "P5Vapor10AbortError"
+- "Ps9Equatable"
+- "Ps5Error"
+- "Ps8Hashable"
+- "O4HTTP6Status"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Cache.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/CHTTP.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Users/pbuchner/southsidebot/.build/debug/Node.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Bits.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Core.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Debugging.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/libc.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/PathIndexable.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Crypto.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Random.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/HTTP.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include/http_parser.h"
+- "/Users/pbuchner/southsidebot/.build/checkouts/ctls.git-9210868160426949823/module.modulemap"
+- "/Users/pbuchner/southsidebot/.build/debug/Sockets.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Transport.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/TLS.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/URI.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Console.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Configs.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/JSON.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Routing.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Branches.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/WebSockets.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Sessions.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Cookies.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/BCrypt.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/SMTP.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/FormData.swiftmodule"
+- "/Users/pbuchner/southsidebot/.build/debug/Multipart.swiftmodule"
+interface-hash: "f36ff9d6e6136c15d6b190fe92a00bd4"

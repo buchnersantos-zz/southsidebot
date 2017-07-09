@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "f0bb50959119f4243e4432ba7018a505"
+build_time: [552944101, 119840000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Exports.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ClientStream.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/InternetStream.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/Port.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Internet/ServerStream.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/FoundationStream.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/ReadableStream.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/Stream.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/StreamError.swift": [552943849, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/sockets.git-972942978533733666/Sources/Transport/Streams/WriteableStream.swift": [552943849, 0]

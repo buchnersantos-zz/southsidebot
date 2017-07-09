@@ -1,0 +1,95 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/master.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFApp.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFApp.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/BFKit/BFApp.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFApp.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFDataStructures.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFDataStructures.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/BFKit/BFDataStructures.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFDataStructures~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFDataStructures.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFKit.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFKit.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/BFKit/BFKit.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFKit~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFKit.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFLog.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFLog.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/BFKit/BFLog.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFLog~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFLog.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFPassword.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFPassword.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/BFKit/BFPassword.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFPassword~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/BFPassword.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/ArrayExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ArrayExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/ArrayExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ArrayExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ArrayExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/CollectionExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/CollectionExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/CollectionExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/CollectionExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/CollectionExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/DataExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DataExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/DataExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DataExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DataExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/DateExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DateExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/DateExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DateExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DateExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/DictionaryExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DictionaryExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/DictionaryExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DictionaryExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/DictionaryExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/NSObjectExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/NSObjectExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/NSObjectExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/NSObjectExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/NSObjectExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/NumberExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/NumberExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/NumberExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/NumberExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/NumberExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/ProcessInfoExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ProcessInfoExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/ProcessInfoExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ProcessInfoExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ProcessInfoExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/StringExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/StringExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/StringExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/StringExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/StringExtension.swiftdeps"
+  },
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/ThreadExtension.swift": {
+    "dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ThreadExtension.d",
+    "object": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/Linux/Foundation/ThreadExtension.swift.o",
+    "swiftmodule": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ThreadExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/pbuchner/southsidebot/.build/debug/BFKit.build/ThreadExtension.swiftdeps"
+  }
+}

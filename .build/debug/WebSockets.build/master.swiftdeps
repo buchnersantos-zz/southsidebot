@@ -1,0 +1,18 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "6072f7d513747a17fc38b36a3d108e7a"
+build_time: [552945184, 740824000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Request+WebSockets.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/WebSocketFormatErrors.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Client/WebSocket+Client.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Communication/WebSocket+ControlFrames.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Communication/WebSocket+Send.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Connection/Headers+WebSockets.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Connection/WebSockets+Hash.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/Fragmentation.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/Frame.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/WebSocket+Error.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Model/WebSocket.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Serialization/FrameDeserializer.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Serialization/FrameSerializer.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/engine.git-3311994267206676365/Sources/WebSockets/Serialization/WebSockets+Flags.swift": [552943851, 0]

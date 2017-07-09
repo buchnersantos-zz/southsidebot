@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "3bcfef38fc7701ee8324ee2618f6b661"
+build_time: [552944112, 556936000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/BoundaryParser.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/HeaderParser.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Multipart+BytesConvertible.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Parser.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Part.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/multipart.git-4210556629793786970/Sources/Multipart/Serializer.swift": [552943851, 0]

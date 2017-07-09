@@ -1,0 +1,17 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "84258dd951fe1476c74c364269dedb46"
+build_time: [552944102, 310487000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher+Method.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Cipher/Cipher.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/ByteStream.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Exports.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Essentials/Helpers.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash+Method.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Hash/Hash.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC+Method.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/HMAC/HMAC.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Hash+Random.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/LibreSSLError.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/PseudoRandom.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/crypto.git-7980259129511365902/Sources/Crypto/Random/Random.swift": [552943852, 0]

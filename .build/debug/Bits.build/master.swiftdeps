@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.1 (swift-3.1.1-RELEASE)"
+options: "9ffc8c40a92059324f302cbde94e97ba"
+build_time: [552945164, 157277000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Aliases.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Base64Encoder.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Alphabet.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+ControlCharacters.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Convenience.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+PatternMatching.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+Random.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Byte+UTF8Numbers.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Base64.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Hex.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Bytes+Percent.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/BytesConvertible.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/ByteSequence+Conversions.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Data+BytesConvertible.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/HexEncoder.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/Operators.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/String+BytesConvertible.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/UnsignedInteger+BytesConvertible.swift": [552943853, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/bits.git-9196587591774126515/Sources/Bits/UnsignedInteger+Shifting.swift": [552943853, 0]

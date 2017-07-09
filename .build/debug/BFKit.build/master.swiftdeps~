@@ -1,0 +1,19 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "a85e3c25117caf9c1731a008e147cc45"
+build_time: [552944095, 60438000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFApp.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFDataStructures.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFKit.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFLog.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/BFKit/BFPassword.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/ArrayExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/CollectionExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/DataExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/DateExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/DictionaryExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/NSObjectExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/NumberExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/ProcessInfoExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/StringExtension.swift": [552943852, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/BFKit-Swift.git--5641109703008831197/Sources/BFKit/Linux/Foundation/ThreadExtension.swift": [552943852, 0]

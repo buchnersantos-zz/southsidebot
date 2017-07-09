@@ -1,0 +1,132 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo11ProcessInfo", ""]
+- ["CSo11ProcessInfo", "uptime"]
+- ["CSo11ProcessInfo", "uptimeDate"]
+provides-dynamic-lookup:
+- "uptime"
+- "uptimeDate"
+depends-top-level:
+- !private "-"
+- "Date"
+- "ProcessInfo"
+- "TimeInterval"
+depends-member:
+- !private ["Ps9AnyObject", "Date"]
+- !private ["Ps9AnyObject", "ProcessInfo"]
+- !private ["Ps9AnyObject", "processInfo"]
+- !private ["Ps9AnyObject", "systemUptime"]
+- !private ["Ps9AnyObject", "uptime"]
+- !private ["Ps7CVarArg", "Date"]
+- !private ["Ps7CVarArg", "ProcessInfo"]
+- !private ["Ps7CVarArg", "processInfo"]
+- !private ["Ps7CVarArg", "systemUptime"]
+- !private ["Ps7CVarArg", "uptime"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Date"]
+- !private ["Ps28CustomDebugStringConvertible", "ProcessInfo"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "processInfo"]
+- !private ["Ps28CustomDebugStringConvertible", "systemUptime"]
+- !private ["Ps28CustomDebugStringConvertible", "uptime"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Date"]
+- !private ["Ps23CustomStringConvertible", "ProcessInfo"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "processInfo"]
+- !private ["Ps23CustomStringConvertible", "systemUptime"]
+- !private ["Ps23CustomStringConvertible", "uptime"]
+- !private ["V10Foundation4Date", "init"]
+- !private ["Ps9Equatable", "Date"]
+- !private ["Ps9Equatable", "ProcessInfo"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "processInfo"]
+- !private ["Ps9Equatable", "systemUptime"]
+- !private ["Ps9Equatable", "uptime"]
+- !private ["Ps8Hashable", "Date"]
+- !private ["Ps8Hashable", "ProcessInfo"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "processInfo"]
+- !private ["Ps8Hashable", "systemUptime"]
+- !private ["Ps8Hashable", "uptime"]
+- ["CSo8NSObject", "Date"]
+- !private ["CSo8NSObject", "ProcessInfo"]
+- ["CSo8NSObject", "TimeInterval"]
+- !private ["CSo8NSObject", "processInfo"]
+- !private ["CSo8NSObject", "systemUptime"]
+- ["CSo8NSObject", "uptime"]
+- ["CSo8NSObject", "uptimeDate"]
+- !private ["PSo16NSObjectProtocol", "Date"]
+- !private ["PSo16NSObjectProtocol", "ProcessInfo"]
+- !private ["PSo16NSObjectProtocol", "processInfo"]
+- !private ["PSo16NSObjectProtocol", "systemUptime"]
+- !private ["PSo16NSObjectProtocol", "uptime"]
+- ["CSo11ProcessInfo", "Date"]
+- !private ["CSo11ProcessInfo", "ProcessInfo"]
+- ["CSo11ProcessInfo", "TimeInterval"]
+- !private ["CSo11ProcessInfo", "processInfo"]
+- !private ["CSo11ProcessInfo", "systemUptime"]
+- ["CSo11ProcessInfo", "uptime"]
+- ["CSo11ProcessInfo", "uptimeDate"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps9_Hashable", "Date"]
+- !private ["Ps9_Hashable", "ProcessInfo"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "processInfo"]
+- !private ["Ps9_Hashable", "systemUptime"]
+- !private ["Ps9_Hashable", "uptime"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "Ps7CVarArg"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "V10Foundation4Date"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- "CSo11ProcessInfo"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/AssertionReporting.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/SwiftStdbool.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/LibcShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/ObjectiveCOverlayShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/DispatchOverlayShims.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/Visibility.h"
+- "/Users/pbuchner/southsidebot/.build/debug/CHTTP.build/module.modulemap"
+- "/Library/Developer/Toolchains/swift-3.1.1-RELEASE.xctoolchain/usr/lib/swift/shims/module.modulemap"
+interface-hash: "18220246c5f42298b9d782aca72b7069"

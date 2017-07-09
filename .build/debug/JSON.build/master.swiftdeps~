@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "2cd6954015397ad4a81c39a8aba83d8c"
+build_time: [552944106, 342546000]
+inputs:
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Bytes.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Equatable.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Fuzzy.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Parse.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON+Serialize.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSON.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONContext.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/JSONRepresentable.swift": [552943851, 0]
+  "/Users/pbuchner/southsidebot/.build/checkouts/json.git-9153249592855998091/Sources/JSON/Sequence+Convertible.swift": [552943851, 0]
